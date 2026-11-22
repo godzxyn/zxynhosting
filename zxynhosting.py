@@ -116,7 +116,7 @@ def keep_alive():
 # ================================
 # 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 # ================================
-TOKEN = "8419138760:AAHRuehYhskiERpWpQJQxBQtPxeHMfYfCmo"  # 𝐑𝐞𝐩𝐥𝐚𝐜𝐞 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐚𝐜𝐭𝐮𝐚𝐥 𝐭𝐨𝐤𝐞𝐧
+TOKEN = "9224489308:AAF6jy-Wnl13QOTdR7w_hEckZ_dU_41124I"  # 𝐑𝐞𝐩𝐥𝐚𝐜𝐞 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐚𝐜𝐭𝐮𝐚𝐥 𝐭𝐨𝐤𝐞𝐧
 OWNER_ID = 8848159805
 ADMIN_ID = 8231927184
 YOUR_USERNAME = '@wannabimine'
